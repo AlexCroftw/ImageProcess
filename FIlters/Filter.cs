@@ -9,5 +9,7 @@ namespace ImageProcess.Filters
     public class Filter
     {
         public float [,] Matrix { get; set; }
+
+
     }
 }

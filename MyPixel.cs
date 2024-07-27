@@ -13,4 +13,6 @@ namespace ImageProcess
         public byte B;
         public byte A;
     }
+
+
 }
